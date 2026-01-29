@@ -8,12 +8,7 @@
   <strong>Advanced cloud-native message queue system with high throughput, reliability, and scalability.</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-18+-green.svg" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-14+-blue.svg" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-6+-red.svg" alt="Redis"/>
-  <img src="https://img.shields.io/badge/license-Proprietary-blue.svg" alt="License"/>
-</p>
+
 
 ---
 
@@ -348,9 +343,7 @@ consumer.start();
 
 ---
 
-## 📝 API Documentation
 
-See [API Documentation](docs/api-documentation.md) for detailed API endpoints.
 
 ### Quick Reference
 
@@ -362,11 +355,7 @@ See [API Documentation](docs/api-documentation.md) for detailed API endpoints.
 | `/api/queues/:id/messages` | GET | Consume messages |
 | `/api/queues/:id/messages/:msgId` | DELETE | Acknowledge message |
 
----
 
-## 🔒 Security
-
-See [Security Documentation](docs/security.md) for security best practices.
 
 ### Security Features
 
@@ -379,15 +368,7 @@ See [Security Documentation](docs/security.md) for security best practices.
 
 ---
 
----
 
-## 📄 License
-
-This project is proprietary software - see the [LICENSE](LICENSE) file for details.
-
-Created by Dhruv Tripathi. All rights reserved. No contributions accepted.
-
----
 
 ## 👤 Creator
 
